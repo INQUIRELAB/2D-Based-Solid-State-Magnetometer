@@ -53,7 +53,7 @@ The dataset has been thoroughly reviewed and contains no known errors or anomali
 
 ## 📜 License
 
-This dataset and associated codes are released under the **MIT License**. Users must provide proper citation or acknowledgment when utilizing the data in publications or presentations.
+This repository is released under the **INQUIRE Lab Academic Research License** (see `LICENSE`). Non-commercial academic use only. Commercial use, redistribution, and derivative works require prior written permission, and no patent rights are granted.
 
 ---
 
